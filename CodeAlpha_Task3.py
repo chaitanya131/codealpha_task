@@ -7,7 +7,7 @@ patterns = [
     (r'what is your name', ['I am a chatbot. You can call me carlo.']),
     (r'bye|goodbye', ['Goodbye!', 'See you later!', 'Bye!']),
     (r'what is your purpose', ['Im here to assist and chat with you!', 'My purpose is to help and have conversations.']),
-    (r'who created you', ['I was created by harsha.']),
+    (r'who created you', ['I was created by Chaitanya.']),
     (r'weather|temperature', ['Im sorry, I dont have real-time data. You can check a weather website for that.']),
     (r'(\bthanks\b|\bthank you\b)', ['Youre welcome!', 'No problem.', 'Glad I could help.']),
     (r'how old are you', ['I dont have an age. Im just a computer program.']),
